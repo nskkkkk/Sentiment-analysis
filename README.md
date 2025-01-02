@@ -23,6 +23,6 @@ The goal of this project is to accurately determine the sentiment of text data. 
 
 ## Technologies Used:
 - Python
-- [Include relevant libraries used: e.g., Scikit-learn, TensorFlow, Keras, NLTK, etc.]
+- libraries used:Scikit-learn, TensorFlow, Keras, NLTK, etc.
 
 This project provides a useful tool for businesses, data scientists, and developers interested in leveraging sentiment analysis to understand and analyze textual data.
